@@ -159,10 +159,10 @@ class VGG16(nn.Module):
 class PercetualPooling(nn.Module):
     def __init__ (self):
         super(PercetualPooling, self).__init__()
-        //todo: adding percetual pooling layer
+        #todo: adding percetual pooling layer
             
 class GraphProjection(nn.Module):
     def __init__(self):
         super(GraphProjection, self).__init__()
-        //todo:projecting 3d objects to 2d graphs
+        #todo:projecting 3d objects to 2d graphs
         
